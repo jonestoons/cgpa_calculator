@@ -1,6 +1,6 @@
-# cgpa_calculator
+# CGPA Calculator
 
-A CGPA calulator Flutter project.
+A CGPA calculator Flutter project.
 
 ## Getting Started
 
